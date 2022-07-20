@@ -1,5 +1,5 @@
-{"products":{
-{"id":"producto-0000000090100","key":"producto-0000000090100","value":{"_id":"producto-0000000090100","_rev":"2-024547d9efe755e7c9cb3d7298bb7e0f","uuid":"producto-0000000090100","marca":"SCHNEIDER","nombre":"Cerveza Botella Schneider x 1 Un","presentacion":"1.0 un"}},
+{"total_rows":6302,"offset":0,"rows":[
+ {"id":"producto-0000000090100","key":"producto-0000000090100","value":{"_id":"producto-0000000090100","_rev":"2-024547d9efe755e7c9cb3d7298bb7e0f","uuid":"producto-0000000090100","marca":"SCHNEIDER","nombre":"Cerveza Botella Schneider x 1 Un","presentacion":"1.0 un"}},
 {"id":"producto-0000000135559","key":"producto-0000000135559","value":{"_id":"producto-0000000135559","_rev":"1-9526b0c155107518166a86592884ac4f","nombre":"REJILLA COMPACTA COL","uuid":"producto-0000000135559","marca":"SIN MARCA","presentacion":"1.0 ud"}},
 {"id":"producto-0000000136204","key":"producto-0000000136204","value":{"_id":"producto-0000000136204","_rev":"1-01b52fe46799632a97c20148e4844861","nombre":"REJ.SECAVAJ.43X55CM","uuid":"producto-0000000136204","marca":"SIN MARCA","presentacion":"1.0 ud"}},
 {"id":"producto-0000000144278","key":"producto-0000000144278","value":{"_id":"producto-0000000144278","_rev":"1-93172ef9ff02582aa25ce2b3d90dc3f2","nombre":"REJILLA AUTO 50X50CM","uuid":"producto-0000000144278","marca":"SIN MARCA","presentacion":"1.0 ud"}},
@@ -22,6 +22,5 @@
 {"id":"producto-0000075027513","key":"producto-0000075027513","value":{"_id":"producto-0000075027513","_rev":"1-313e615db5d7f8bf4e576abaefda9785","nombre":"Desodorante Original Dove x 50 Gr","uuid":"producto-0000075027513","marca":"DOVE","presentacion":"50.0 gr"}},
 {"id":"producto-0000075032715","key":"producto-0000075032715","value":{"_id":"producto-0000075032715","_rev":"1-80061bb65fb9cf193db50620b2bf0a5a","nombre":"Cerveza Corona x 335 Cc","uuid":"producto-0000075032715","marca":"CORONA","presentacion":"355.0 cc"}},
 {"id":"producto-0000077900302","key":"producto-0000077900302","value":{"_id":"producto-0000077900302","_rev":"1-afdb93babf4afd1f38b824decc39b0a5","nombre":"Repelente Crema Off x 60 Gr","uuid":"producto-0000077900302","marca":"OFF","presentacion":"60.0 gr"}},
-{"id":"producto-0000077900845","key":"producto-0000077900845","value":{"_id":"producto-0000077900845","_rev":"1-1a43ea21962e6afb3008d7f06556e627","nombre":"Galletitas BanÌƒadas con Chocolate con Relleno de Limon Terrabusi Tita x 18 Gr","uuid":"producto-0000077900845","marca":"TITA","presentacion":"18.0 gr"}},
-}
-}
+{"id":"producto-0000077900845","key":"producto-0000077900845","value":{"_id":"producto-0000077900845","_rev":"1-1a43ea21962e6afb3008d7f06556e627","nombre":"Galletitas BanÌƒadas con Chocolate con Relleno de Limon Terrabusi Tita x 18 Gr","uuid":"producto-0000077900845","marca":"TITA","presentacion":"18.0 gr"}}
+]}
